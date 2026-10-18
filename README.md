@@ -34,8 +34,5 @@ Rodo um homelab próprio num **Beelink ME Mini 6** com **Proxmox VE** como base.
 - **Reverse proxy**: Caddy
 - **Dev mobile**: STF + ADB pra testar apps em dispositivos remotos
 
-> Curiosidade: as portas 2.5 GbE do NAS negociam em 1 GbE no switch atual — suficiente pro uso, mas upgrade planejado.
-
-
 ### 📬 Contato
 - 💼 LinkedIn: [/in/patrick-camargo](https://www.linkedin.com/in/patrick-camargo/)
